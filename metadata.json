@@ -1,0 +1,6 @@
+{
+  "name": "Moment of Inertia & Rolling Motion Race",
+  "description": "UDVASH HSC & BUET Physics Dynamics Lab - Moment of Inertia & Rolling Motion Race Down an Incline simulation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
